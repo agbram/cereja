@@ -112,8 +112,6 @@ Configure o MySQL localmente e ajuste as variáveis de ambiente conforme o arqui
 
 # 📚 Documentação
 
-# 📚 Documentação
-
 A documentação técnica do projeto está organizada na pasta `docs`, reunindo informações sobre a arquitetura da aplicação, modelagem do banco de dados, padrões adotados e demais recursos necessários para o desenvolvimento e manutenção do sistema.
 
 A documentação será expandida conforme a evolução do projeto.
