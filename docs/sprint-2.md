@@ -14,17 +14,17 @@
 ████░░░░░░░░░░░░░░░░░░░░░░░░ 6% completo
 ```
 
-| Categoria | Tasks | Concluídas | Status |
-|-----------|-------|-----------|--------|
-| DER e Banco | 5 | 1 ✅ | 20% |
-| Entidades JPA | 2 | 0 | 0% |
-| Security/JWT | 3 | 0 | 0% |
-| Transfer Objects | 1 | 0 | 0% |
-| Repositories | 1 | 0 | 0% |
-| Services | 1 | 0 | 0% |
-| Controllers | 1 | 0 | 0% |
-| Testes | 1 | 0 | 0% |
-| Documentação | 1 | 0 | 0% |
+| Categoria         | Tasks | Concluídas | Status |
+|-------------------|-------|------------|--------|
+| DER e Banco       | 5     | 1          | 20%    |
+| Entidades JPA     | 2     | 0          | 0%     |
+| Security/JWT      | 3     | 0          | 0%     |
+| Transfer Objects  | 1     | 0          | 0%     |
+| Repositories      | 1     | 0          | 0%     |
+| Services          | 1     | 0          | 0%     |
+| Controllers       | 1     | 0          | 0%     |
+| Testes            | 1     | 0          | 0%     |
+| Documentação      | 1     | 0          | 0%     |
 
 ---
 
@@ -164,12 +164,11 @@ Modelo está em **3ª Forma Normal (3NF)** ✅
 
 ### 8. Documentos Gerados
 
-| Arquivo | Localização | Status |
-|---------|------------|--------|
-| DER | `/docs/der.md` | ✅ Completo |
-| Modelo Físico | `/docs/modelo-fisico.md` | ✅ Simplificado |
-| Backlog Sprint 2 | Notion | ✅ Atualizado |
-
+| Arquivo          | Localização              | Status       |
+|------------------|--------------------------|--------------|
+| DER              | `/docs/der.md`           | Completo     |
+| Modelo Físico    | `/docs/modelo-fisico.md` | Simplificado |
+| Backlog Sprint 2 | Notion                   | Atualizado   | 
 ---
 
 ## 🎯 O que vem depois (TASK-2, 3, 4, 5)
